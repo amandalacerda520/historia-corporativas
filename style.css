@@ -4,11 +4,15 @@ body{
     font-family: sans-serif;
     text-align: justify;
     margin: 2em;
-    padding: ;
+    padding:2cm;
     border: solid 1px;
 }
 
+h1{
+    text-align: center;
+    f
+}
 h2{
-    text-align:center;
+    text-align:left;
     color: black;
 }
